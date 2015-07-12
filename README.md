@@ -1,2 +1,2 @@
 # elixr-lxc
-elixr bindings of liblxc
+elixr bindings for liblxc
