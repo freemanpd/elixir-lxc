@@ -1,2 +1,4 @@
-# elixr-lxc
-elixr bindings for liblxc
+# Elixir-lxc
+Elixir Bindings for LXC (Linux Containers)
+
+
